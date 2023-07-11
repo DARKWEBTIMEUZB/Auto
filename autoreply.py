@@ -6,7 +6,8 @@ banner=("""▄▄    ▄▄  ▄▄▄▄▄▄▄▄  ▄▄▄   ▄▄    ▄
   ██  ██   ███████   ██ ██ ██  ██    ██  ██ ██ ██
    ████    ██        ██  █▄██  ██    ██  ██ ▀▀ ██
    ████    ██▄▄▄▄▄▄  ██   ███   ██▄▄██   ██    ██
-   ▀▀▀▀    ▀▀▀▀▀▀▀▀  ▀▀   ▀▀▀    ▀▀▀▀    ▀▀    ▀▀\n[*] Dasturchi @DARKWEB_TIME and @virtual_programmer_n""")
+   ▀▀▀▀    ▀▀▀▀▀▀▀▀  ▀▀   ▀▀▀    ▀▀▀▀    ▀▀    ▀▀\n[*] Dasturchi @DARKWEB_TIME""")
+os.system('clear')
 print(banner)
 os.system('termux-open-url http://t.me/DARKWEB_TIME')
 # @DARKWEB_TIME
